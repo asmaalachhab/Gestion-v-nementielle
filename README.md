@@ -158,31 +158,3 @@ eventma/
 Asmaa Lachhab
 Projet académique – Génie Informatique
 
----
-
-## 🔥 Maintenant important
-
-Crée ce dossier dans ton projet :
-
-```
-docs/screenshots/
-```
-
-Et mets dedans tes captures :
-
-* landing.png
-* events-list.png
-* event-details.png
-* checkout.png
-* organizer-dashboard.png
-* admin-panel.png
-
-Puis fais :
-
-```bash
-git add .
-git commit -m "Add screenshots and update README"
-git push
-```
-
----
